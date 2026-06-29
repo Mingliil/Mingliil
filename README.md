@@ -12,3 +12,7 @@ Esse é meu curriculo, bem vindo a ele;
  | :--- | :---  | :---: |
  | **Linguagens** | Godot, C#, javascript | Iniciante |
  | **Ferramentas** | Blender, Photoshop, Premiere, After Effects, Godot Engine, git, github, Vs Code  | Intermediário |
+
+## Objetivos Atuais e Fututos
+- [ ] Finalizar um homebrew de fan de Ordem Paranormal
+- [ ] Lançar um beta do jogo de TCC, Tech Issues: for Hire
