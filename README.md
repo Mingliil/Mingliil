@@ -6,3 +6,9 @@ Esse é meu curriculo, bem vindo a ele;
 
  Alguns links meus:
  * [E-mail](mailto:miglegames.lmsnts@gmail.com)
+
+## Minhas habilidades
+ | categoria | Tecnologias | Proficiência |
+ | :--- | :---  | :---: |
+ | **Linguagens** | Godot, C#, javascript | Iniciante |
+ | **Ferramentas** | Blender, Photoshop, Premiere, After Effects, Godot Engine, git, github, Vs Code  | Intermediário |
